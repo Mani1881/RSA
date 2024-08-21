@@ -16,7 +16,6 @@ Upon running the code of the given notebook, you will be prompted to enter the t
 You will then have to select the encrypt option and enter the encryption key to get the encrypted text output
 
 ![Screenshot 2024-08-21 204002](https://github.com/user-attachments/assets/2b77b820-9f56-4bd6-aa9f-26c1e9c501e0)
-![Screenshot 2024-08-21 204034](https://github.com/user-attachments/assets/c524c90f-06c0-4281-8310-9601acb791cf)
 
 To decrypt the encrypted message on the receiver side, The decrypted message and the decryption key must be given.
 
