@@ -20,7 +20,8 @@ You will then have to select the encrypt option and enter the encryption key to 
 
 To decrypt the encrypted message on the receiver side, The decrypted message and the decryption key must be given.
 
-![Screenshot 2024-08-21 204120](https://github.com/user-attachments/assets/ee2a3aaa-db4a-4cfd-b138-76f5bc6e3cd0)
+![Screenshot 2024-08-21 204034](https://github.com/user-attachments/assets/3ff36e24-c529-4c7d-8279-2ddb7dc42945)
+
 
 Upon providing the decryption key, the decrypted message is displayed
 
