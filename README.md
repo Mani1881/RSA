@@ -8,17 +8,4 @@ Encryption: The plaintext message is converted to a numeric representation. In R
 
 Decryption: The ciphertext c is retrieved. The plaintext message m is computed by raising the ciphertext to the power of the private exponent d modulo n: m = (c^d) % n.
 
-Upon running the code of the given notebook, you will be prompted to enter the text to be encrypted along with encryption and decryption keys in the frame. I've used tkinter for demonstration.
 
-Screenshot 2023-07-12 171818
-
-You will then have to select the encrypt option and enter the encryption key to get the encrypted text output
-
-Screenshot 2023-07-12 172723 Screenshot 2023-07-12 171855
-
-To decrypt the encrypted message on the receiver side, The decrypted message and the decryption key must be given.
-
-Screenshot 2023-07-12 173156
-Upon providing the decryption key, the decrypted message is displayed
-
-Screenshot 2023-07-12 172620 Screenshot 2023-07-12 171952
